@@ -11,7 +11,7 @@
 
 ##### Connect with me:
 
-[<img align="left" alt="brandon | LinkedIn" width="26px" src="https://img.icons8.com/carbon-copy/100/000000/linkedin.png"/>] [linkedin]
+[<img align="left" alt="brandon | LinkedIn" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>] [linkedin]
 
 <br />
 
