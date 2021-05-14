@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Finish Lambda School's Web Development Program. Contribute to Open Source projects. 400+ Github contributions. Become a web-dev at google, amazon, facebook one day
 - ⚡ Fun Fact: I have 3 cats, and I love basketball.
 
-#### Check out my portfolio: TBD
+#### Check out my portfolio: TBA
 
 ##### Connect with me:
 
