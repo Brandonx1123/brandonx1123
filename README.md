@@ -2,9 +2,9 @@
 ### I'm a Full Stack Developer, who loves to code and accepts all challenges
 
 - Currently enrolled at Lambda School - Web Development
-- 📚 I’m currently focusing on labs   – Working in a team enviorment to develop a product for Lambdas Stakeholders
+- 📚 I’m currently focusing on labs – Working in a team enviorment to develop a product for Lambdas Stakeholders
 - 👯 I’m looking to collaborate with other passionate developers and any companies looking for a web developer.
-- 🥅 2021 Goals: Finish Lambda School's Web Development Program. Contribute to Open Source projects. 400+ Github contributions. Become a web-dev at google, amazon, facebook one day
+- 🥅 2021 Goals: Finish Lambda School's Web Development Program. Contribute to Open Source projects. 400+ Github contributions. Become a web-dev at google, amazon, facebook one day.
 - ⚡ Fun Fact: I have 3 cats, and I love basketball.
 
 #### Check out my portfolio: TBA
