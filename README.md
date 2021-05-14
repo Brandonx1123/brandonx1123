@@ -4,7 +4,7 @@
 - Currently enrolled at Lambda School - Web Development
 - 📚 I’m currently focusing on labs – Working in a team enviorment to develop a product for Lambdas Stakeholders
 - 👯 I’m looking to collaborate with other passionate developers and any companies looking for a web developer.
-- 🥅 2021 Goals:  Contribute to Open Source projects. 400+ Github contributions. Become a web-dev at google, amazon, facebook one day.
+- 🥅 2021 Goals:  Contribute to Open Source projects. 400+ Github contributions. Apply to become a web-dev at FAANG.
 - ⚡ Fun Fact: I have 3 cats, and I love basketball.
 
 #### Check out my portfolio: TBA
