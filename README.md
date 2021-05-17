@@ -1,11 +1,13 @@
-## Hi there 👋, my name is Brandon 
+                            ## Hi there 👋, my name is Brandon 
 ### I'm a Full Stack Developer, who loves to code and accepts all challenges
+### Email: Brandonx1123@gmail.com
 
 - Web Development 
 - 📚Currently working on Human Rights First Blue Witness Project – Working in a team enviorment to develop a product for the stakeholders.
 - 👯 I’m looking to collaborate with other passionate developers and any companies looking for a web developer.
 - 🥅 2021 Goals:  Contribute to Open Source projects. 400+ Github contributions. Apply to become a web-dev at FAANG.
 - ⚡ Fun Fact: I have 3 cats, and I love basketball.
+
 
 #### Check out my portfolio: TBA
 
