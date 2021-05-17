@@ -1,4 +1,5 @@
-                            ## Hi there 👋, my name is Brandon 
+
+### Hi there 👋, my name is Brandon 
 ### I'm a Full Stack Developer, who loves to code and accepts all challenges
 ### Email: Brandonx1123@gmail.com
 
