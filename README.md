@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Brandon 
-### I'm a Full Stack Developer, who loves to code and accepts all challenges
+### I'm a Full Stack Web-Developer, who loves to code and accepts all challenges
 ### Contact Email: Brandonx1123@gmail.com 
 
 - Web Development 
