@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Brandon 
 ### I'm a Full Stack Web-Developer, who loves to code and accepts all challenges
-### Contact Email: Brandonx1123@gmail.com 
+### Contact Email: Brandonx1123@gmail.com       
 
 - Web Development 
 - 📚Currently working on Human Rights First Blue Witness Project – Working in a team enviorment to develop a product for the stakeholders.
