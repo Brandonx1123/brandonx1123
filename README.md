@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Brandon Santos  
+### Hi there 👋, my name is Brandon Santos 
 ### I'm a Full Stack Web-Developer, who loves to code and accepts all challenges
 ### Contact Email: Brandonx1123@gmail.com       
 
